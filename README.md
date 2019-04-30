@@ -100,9 +100,9 @@ The final project is meant as a practical demonstration of all skills learned in
 - Analyze data and produce figures
 - Demonstrate understanding of the type(s) of data used
 - Take into account data quality issues
-- Write short paper (i.e., an extended abstract) and share the paper and supplementary materials on GitHub
+- Write short paper (i.e., an extended abstract) and share the paper and supplementary materials (at a minimum, well-explained notebooks) on GitHub
 - Give a short (10-minute) presentation
 
 Project topics should be approved by the instructor by mid-term. Students are encouraged to begin work on the final project during earlier portions of the course, especially with any needed literature review. Note that some useful background concepts will not be covered until the final module.
 
-*This project will be due at the end of Dead Week, with presentations occurring during the final exam period (and during the later classes of Dead Week if needed).*
+*This project will be due at the end of Dead Week, with presentations occurring during the final exam period (and during the final class of Dead Week if needed).*
