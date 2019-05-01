@@ -106,3 +106,26 @@ The final project is meant as a practical demonstration of all skills learned in
 Project topics should be approved by the instructor by mid-term. Students are encouraged to begin work on the final project during earlier portions of the course, especially with any needed literature review. Note that some useful background concepts will not be covered until the final module.
 
 *This project will be due at the end of Dead Week, with presentations occurring during the final exam period (and during the final class of Dead Week if needed).*
+
+References
+----------
+
+The following sources were used in the development of this course:
+
+Chastang, J., and Coauthors, 2018: Unidata Python Training Workshop. Accessed 16 September 2018, https://unidata.github.io/unidata-python-workshop/ 
+
+DeCaria, A. J., 2012: *Python Programming and Visualization for Scientists*. Sundog Publishing, 270 pp.
+
+Goebbert, K., 2018: met330. Accessed 16 September 2018, https://github.com/kgoebber/met330. 
+
+Heistermann, M., S. Collis, M. J. Dixon, S. Giangrande, J .J. Helmus, B. Kelley, J. Koistinen, D. B. Michelson, M. Peura, T. Pfaff, and D. B. Wolff, 2015: The Emergence of Open-Source Software for the Weather Radar Community. *Bull. Amer. Meteor. Soc.*, **96**, 117–128, https://doi.org/10.1175/BAMS-D-13-00240.1
+
+Horel, J. D., D. Ziegenfuss, and K. D. Perry, 2013: Transforming an Atmospheric Science Curriculum to Meet Students' Needs. *Bull. Amer. Meteor. Soc.*, **94**, 475–484, https://doi.org/10.1175/BAMS-D-12-00115.1
+
+Irving, D., 2016: A Minimum Standard for Publishing Computational Results in the Weather and Climate Sciences. *Bull. Amer. Meteor. Soc.*, **97**, 1149–1158, https://doi.org/10.1175/BAMS-D-15-00010.1
+
+Lin, J. W., 2012: *A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences.* 209 pp.
+
+Lin, J. W., 2012: Why Python Is the Next Wave in Earth Sciences Computing. *Bull. Amer. Meteor. Soc.*, **93**, 1823–1824, https://doi.org/10.1175/BAMS-D-12-00148.1
+
+Schultz, D. M., 2009: *Eloquent Science: A Practical Guide to Becoming a Better Writer, Speaker, and Atmsohperic Scientist*. Amer. Meteor. Soc., 412 pp.
