@@ -40,11 +40,13 @@
 
 **Other Materials**
 
-- Example In-Class Assignment
+- [Example In-Class Assignment](in_class_assignment_3.md)
 - Quiz (multiple-choice)
 - Quiz (short answer)
 - Quiz (fix-the-program)
 
 **Additional References**
 
-- ...
+- http://matplotlib.org/ 
+- https://github.com/Unidata/python-workshop/tree/master/notebooks/Matplotlib
+- https://unidata.github.io/python-gallery/examples/index.html
