@@ -35,7 +35,7 @@ Online resources will be made available on this GitHub repo or through external 
 Modules
 -------
 
-**Module 1: Intermediate Python**
+**[Module 1: Intermediate Python](module1/)**
 
 Learning Objectives:
 
@@ -46,7 +46,7 @@ Learning Objectives:
 
 Project: Demonstrate skill in using Python features covered in this module through a set of coding problems
 
-**Module 2: Version Control and Open Development**
+**[Module 2: Version Control and Open Development](module2/)**
 
 Learning Objectives:
 
@@ -69,7 +69,7 @@ Learning Objectives:
 
 Project: Create an analysis notebook for a research dataset (class example or data from students' own research)
 
-**Module 4: Meteorological Calculations and Basic Numerical Methods**
+**[Module 4: Meteorological Calculations and Basic Numerical Methods](module4/)**
 
 Learning Objectives:
 
@@ -80,7 +80,7 @@ Learning Objectives:
 
 Project: Implement a set of meteorological calculations, with proper documentation and tests, and include a brief demonstration notebook
 
-**Module 5: Tacking Practical Problems in Operational Meteorology**
+**[Module 5: Tacking Practical Problems in Operational Meteorology](module5/)**
 
 Learning Objectives:
 
