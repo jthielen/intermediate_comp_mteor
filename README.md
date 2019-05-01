@@ -1,7 +1,9 @@
 Intermediate Computational Meteorology
 ======================================
 
-*These course materials are currently under development by [Jon Thielen](https://github.com/jthielen) as an Honors Project at Iowa State University during the Spring 2019 semester (Project Advisor: Dave Flory). This is not an actual course at Iowa State at this point in time, but these resources are meant to be available openly for any potential future course or independent learning. For any questions, please contact Jon.*
+*These course materials are currently under development by [Jon Thielen](https://github.com/jthielen) as an Honors Project at Iowa State University during the Spring 2019 semester (Project Advisor: Dave Flory). Work on this project is ongoing, with phases for the Honors Project (Modules 3 and 5, with written summary report) expected to be complete by the end of the semester (May 10th). Finalization of materials beyond the Honors Project components (Modules 1, 2, and 4) is expected to occur Summer 2019, at which point an abstract for this work will be sumbitted to the 2020 AMS Annual Meeting.*
+
+*This is not an actual course at Iowa State at this point in time, but these resources are meant to be available openly for any potential future course or independent learning. For any questions, please contact Jon.*
 
 Course Overview
 ---------------
